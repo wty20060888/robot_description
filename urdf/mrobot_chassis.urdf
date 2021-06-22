@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 
-<robot name="mrobot_chassis">
+
+<robot name="mrobot_chassis" xmlns:xacro="http://www.ros.org/wiki/xacro">
 
   <link name="base_link">
     <visual>
